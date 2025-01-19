@@ -35,7 +35,7 @@ I am a lifelong learner, constantly driven by the joy of discovering something n
     <a href="https://github.com/andreiacampos98/42_ft_transcendence" align="left">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andreiacampos98&repo=42_ft_transcendence&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-    <a href="https://github.com/andreiacampos98/datascience_course" align="right"><img align="right" width="45%" height="45%" src="https://github.com/andreiacampos98/datascience_course/blob/main/data_science_course.png" />
+    <a href="https://github.com/andreiacampos98/datascience_course" align="right"><img align="right" width="45%" height="45%" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/data_science.png" />
     </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
