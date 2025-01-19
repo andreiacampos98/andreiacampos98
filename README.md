@@ -13,6 +13,24 @@ I am a lifelong learner, constantly driven by the joy of discovering something n
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [andreiacampos98.15@gmail.com](mailto:andreiacampos98.15@gmail.com)
 
+<br/>
+
+### Repositories
+
+<div width="100%"  height="350px" align="left">
+    <a href="https://github.com/andreiacampos98/datascience_course" align="left"><img align="left" width="450px" height="150px" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/data_science.png" />
+    </a>
+    <a href="https://github.com/andreiacampos98/course_python" align="left"><img align="left" width="450px" height="150px" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/100_days_python.png" />
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" height="350px" align="left">
+    <a href="https://github.com/andreiacampos98/42_ft_transcendence" align="left">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andreiacampos98&repo=42_ft_transcendence&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+
 ### Skills
 
 
@@ -25,21 +43,7 @@ I am a lifelong learner, constantly driven by the joy of discovering something n
 
 <p align="left"> <a href="https://www.github.com/andreiacampos98" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/andreiacampos9815/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+
 
 <a href="https://github.com/andreiacampos98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiacampos98&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Repositories</b>
-
-<div width="100%" align="center">
-    <a href="https://github.com/andreiacampos98/datascience_course" align="left"><img align="left" width="45%" height="45%" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/data_science.png" />
-    </a>
-    <a href="https://github.com/andreiacampos98/course_python" align="left"><img align="left" width="45%" height="45%" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/100_days_python.png" />
-</div>
-<br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-    <a href="https://github.com/andreiacampos98/42_ft_transcendence" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andreiacampos98&repo=42_ft_transcendence&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-</div>
