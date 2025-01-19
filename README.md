@@ -23,7 +23,7 @@ I am a lifelong learner, constantly driven by the joy of discovering something n
     <a href="https://github.com/andreiacampos98/course_python" align="left"><img align="left" width="400px" height="150px" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/100_days_python.png" />
 </div>
 <br /><br /><br /><br /><br /><br /><br />
-
+<br /><br />
 
 <div width="100%" height="400px" align="left">
     <a href="https://github.com/andreiacampos98/42_ft_transcendence" align="left">
