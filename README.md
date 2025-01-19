@@ -34,7 +34,7 @@ I am a lifelong learner, constantly driven by the joy of discovering something n
 <div width="100%" align="center">
     <a href="https://github.com/andreiacampos98/datascience_course" align="left"><img align="left" width="45%" height="45%" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/data_science.png" />
     </a>
-    <a href="https://github.com/andreiacampos98/course_python" align="left"><img align="left" width="45%" height="45%" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/100_days_python.jpg" />
+    <a href="https://github.com/andreiacampos98/course_python" align="left"><img align="left" width="45%" height="45%" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/100_days_python.png" />
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
