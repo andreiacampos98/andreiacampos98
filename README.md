@@ -18,9 +18,9 @@ I am a lifelong learner, constantly driven by the joy of discovering something n
 ### Repositories
 
 <div width="100%"  height="350px" align="left">
-    <a href="https://github.com/andreiacampos98/datascience_course" align="left"><img align="left" width="450px" height="150px" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/data_science.png" />
+    <a href="https://github.com/andreiacampos98/datascience_course" align="left"><img align="left" width="400px" height="150px" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/data_science.png" />
     </a>
-    <a href="https://github.com/andreiacampos98/course_python" align="left"><img align="left" width="450px" height="150px" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/100_days_python.png" />
+    <a href="https://github.com/andreiacampos98/course_python" align="left"><img align="left" width="400px" height="150px" src="https://github.com/andreiacampos98/andreiacampos98/blob/main/srcs/100_days_python.png" />
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
